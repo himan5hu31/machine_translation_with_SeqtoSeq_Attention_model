@@ -1,4 +1,4 @@
-# machine_translation_with_SeqtoSeq_Attention_model
+# machine translation with SeqtoSeq+Attention model
 Machine Translation English to Hindi with Deep Learning Seq-to-Seq Encoder-Decoder Model with Attention
 This project aims to develop a machine translation system that can translate English sentences to Hindi sentences using a deep learning sequence-to-sequence encoder-decoder model with attention mechanism. The attention mechanism helps the model to focus on specific parts of the input sentence while generating the output sentence, which improves the translation quality.
 
